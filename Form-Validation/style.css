@@ -1,0 +1,27 @@
+.a1 {
+    color: darkcyan;
+}
+
+label {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+
+#txt_email {
+    /* background-color: aqua; */
+    width: 25rem;
+    height: 2.8rem;
+}
+
+
+#txt_password {
+    /* background-color: aqua; */
+    width: 25rem;
+    height: 2.8rem;
+}
+
+button {
+    width: 10rem;
+    height: 3rem;
+}
