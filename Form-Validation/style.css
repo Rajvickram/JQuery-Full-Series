@@ -1,5 +1,7 @@
 .a1 {
-    color: darkcyan;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 1.2rem;
 }
 
 label {
@@ -24,4 +26,16 @@ label {
 button {
     width: 10rem;
     height: 3rem;
+}
+
+body {
+    background: url('./pixel-art-sun-building-sunset-wallpaper-preview.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+
+#card {
+    background-color: rgba(0,0,0,.5);
+    margin-top: 5rem;
 }
